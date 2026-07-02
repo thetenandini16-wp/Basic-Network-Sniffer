@@ -27,10 +27,11 @@ The Basic Network Sniffer is a Python-based cybersecurity project that captures 
 
 🔗 How to Run :
    
-   python network_sniffer.py
+   • python network_sniffer.py
    
 
 🔗 Sample Output
+
 
 Source IP      : 192.168.1.10
 Destination IP : 142.250.182.206
@@ -40,11 +41,14 @@ Packet Length  : 60 Bytes
 
 
 🔗 Project Structure
+
 Basic-Network-Sniffer
+
 │── network_sniffer.py
 │── requirements.txt
 │── README.md
 
 
 🔗Author
+
 Nandini Thete 
