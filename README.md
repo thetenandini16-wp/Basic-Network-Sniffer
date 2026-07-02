@@ -33,15 +33,14 @@ The Basic Network Sniffer is a Python-based cybersecurity project that captures 
 🔗 Sample Output
 
 
-Source IP    
-  : 192.168.1.10
-Destination IP 
-: 142.250.182.206
-Protocol     
-  : TCP
-Packet Length  
-: 60 Bytes
----------------------------------
+Source IP      : 192.168.1.10
+
+Destination IP : 142.250.182.206
+
+Protocol       : TCP
+
+Packet Length  : 60 Bytes
+
 
 
 🔗 Project Structure
